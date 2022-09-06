@@ -52,6 +52,9 @@
     "webpack-cli": "^3.2.1",
     "webpack-dev-server": "^3.1.14"
   },
+   "peerDependencies": {
+    "react": "^15.0.0 || ^16.0.0 || ^17.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/benwiley4000/react-gif-player.git"
